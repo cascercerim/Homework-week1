@@ -1,0 +1,38 @@
+
+
+img{
+    height: 300px;
+    width: 300px;
+    float: left;
+    padding: 10px;
+    position: relative;
+}
+
+main{
+    background-color: #ffffff;
+    border: #c9c9c9 1px solid;
+    width: 800px;
+    height: 500px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+
+h1 .about{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: white;
+
+}
+h1{
+    color: #4aaaa5;
+    padding: 15px;
+    border-bottom: 2px solid #c9c9c9;
+}
+
+p{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+

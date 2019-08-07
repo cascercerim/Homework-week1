@@ -1,0 +1,121 @@
+
+/* main area for the conatct part of page */
+main{
+    background-color: #ffffff;
+    border: #c9c9c9 1px solid;
+    width: 600px;
+    height: 600px;
+    padding-bottom: px;
+    position: relative;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    margin-left: 375px;
+    /* margin-top: 17px; */
+    /* margin-bottom: 17px; */
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+
+}
+/* heading part of the main area of page */
+h1{
+  color: #4aaaa5;
+  font-weight: 300;
+  padding: 10px; 
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  border-bottom: 2px solid #c9c9c9;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+  .column {
+  float: left;
+  padding-top: 15px;
+  padding-left: 5px;
+  top:-10;
+}  
+
+.row::after {
+  clear: both;
+  /* display: table;  */
+} 
+ .row-2::after {
+  clear: both;
+  /* padding-right: 5px; */
+  /* display: table;  */
+}  
+
+  /* Styling of the conatiner */
+.container {
+  border-radius: 5px;
+  background-color: #ffffff;
+  padding:5px;
+  /* position: relative; */
+  top: -10px; 
+  text-align: center;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  }
+
+img{
+   padding-left: 0px; 
+  /* padding-bottom: -20px; */
+  margin: 11px; 
+  top: -20px;
+ 
+
+  }
+p{
+  position: sticky;
+  background: #4aaaa5;
+  color: #ffffff;
+  top: 100px;
+  padding: 10px;
+  right: 10px;
+
+
+}
+  /* Bottom left text */
+.bottom-left {
+  position: relative;
+  bottom:100px;
+  right: 20px;
+  padding-left: 20px;
+  padding-right: 20px; 
+}
+
+/* Top left text */
+.top-left {
+  position: relative;
+  bottom:100px;
+  right: 20px;
+  padding-left: 20px;
+  padding-right: 20px; 
+
+} 
+/* Top right text */
+.middle-left {
+  position: relative;
+  bottom:100px;
+  right: 20px;
+  padding-left: 20px;
+  padding-right: 20px; 
+
+} 
+ /* Top right text  */
+ .top-right { 
+  position: relative;
+  bottom:100px;
+  right: 20px;
+  padding-left: 20px;
+  padding-right: 20px; 
+ }
+
+ /* Bottom right text */
+.middle-right {
+  position: relative;
+  bottom:100px;
+  right: 20px;
+  padding-left: 20px;
+  padding-right: 20px; 
+}
+
